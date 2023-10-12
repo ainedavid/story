@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is file 2
+=======
+modifeid file 2
+>>>>>>> chapter2
